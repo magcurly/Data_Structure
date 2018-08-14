@@ -219,8 +219,8 @@ def keywordfind(T,b): #T7
 #A=[10,5,12,7,0,0,4]
 #A=[-4,-2,3,11,0,2,-5,-3,1,0,0,0,0,0,4]
 
-A=[40,30,65,25,35,50,0,10,26,33,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0]
-t=BinTrLList(A)
+#A=[40,30,65,25,35,50,0,10,26,33,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0]
+#t=BinTrLList(A)
 #print t._root.left.data
 #print IsBalaced(t)#T1
 #print POrder(t) #T2
@@ -228,6 +228,6 @@ t=BinTrLList(A)
 #print treediameter(t) #T4
 #print weightedroadlength(t) #T5
 #maxsubtree(t) #T6
-b=[40,30,25,26,10]
-print keywordfind(t,b) #T7
+#b=[40,30,25,26,10]
+#print keywordfind(t,b) #T7
 
